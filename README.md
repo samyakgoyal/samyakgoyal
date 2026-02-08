@@ -15,13 +15,6 @@ Started out training neural networks to predict stock prices. The models were ri
 - **[Stock-Prediction-Using-LSTM](https://github.com/samyakgoyal/Stock-Prediction-Using-LSTM)** — Teaching machines to lose money in the stock market, scientifically
 - **[Music-generator](https://github.com/samyakgoyal/Music-generator)** — AI-generated music that's somehow both impressive and unsettling
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=samyakgoyal&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyakgoyal&layout=compact&theme=transparent&hide_border=true&hide_title=true" height="150" />
-</p>
-
 ---
 
 <sub>Backend systems by day, questionable side projects by night.</sub>

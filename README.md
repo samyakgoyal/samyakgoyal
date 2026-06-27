@@ -9,12 +9,6 @@ Started out training neural networks to predict stock prices. The models were ri
 **Daily drivers:** Go, Node.js, Python, Kafka, Kubernetes, AWS/Azure, Redis, PostgreSQL
 
 **When I feel nostalgic:** TensorFlow, Keras, LSTM, NLP, Scikit-learn, Pandas
-
-### Projects worth checking out
-
-- **[Stock-Prediction-Using-LSTM](https://github.com/samyakgoyal/Stock-Prediction-Using-LSTM)** — Teaching machines to lose money in the stock market, scientifically
-- **[Music-generator](https://github.com/samyakgoyal/Music-generator)** — AI-generated music that's somehow both impressive and unsettling
-
 ---
 
 <sub>Backend systems by day, questionable side projects by night.</sub>
